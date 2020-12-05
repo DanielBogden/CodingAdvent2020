@@ -10,5 +10,5 @@ def find_two_entries():
 
 
 if __name__ == "__main__":
-    print(find_two_entries())
+    print("Day One Pt1: %d" % find_two_entries())
     
